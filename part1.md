@@ -5,19 +5,19 @@
 
 
 ## Endpoints and parameters 
-* ### Creating a new variant
+1. ### Creating a new variant
  This endpoint is used to create a new variant.
-   * parameters 
+   * Parameters  
       * Variant name (String)
   
-* ### Deleting a variant
+2. ### Deleting a variant
 This endpoint is used to delete an existing variant.
-   * parameters 
+   * Parameters  
      * Variant ID (int)
    
-* ### Deleting a variant
+3. ### Deleting a variant
 This endpoint is used to get the information of the specified variant.
-   * parameters
+   * Parameters 
      * Variant ID (int)
 
 ## Resources
