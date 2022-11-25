@@ -32,7 +32,7 @@ A successful API request with the following parameters:
 * harvestPercentage: 0.7,
 * berryCount: 2048
 
-Would look like the following.
+Would return the following response:
 
 ```
 {
@@ -72,7 +72,7 @@ Whereas an invalid API request with the following parameters:
 * harvestPercentage: 1000,
 * berryCount: "Not enough"
 
-Would look like the following
+Would return the following response:
 
 ```
 {
