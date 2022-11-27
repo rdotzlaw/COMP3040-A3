@@ -4,21 +4,14 @@
 ## Our API allows for the creation, deletion and to get information of a Manitoba bearberry variant.
 
 
-## Endpoints and parameters 
-1. ### Creating a new variant
- This endpoint is used to create a new variant.
-   * Parameters  
-      * Variant name (String)
-  
-2. ### Deleting a variant
-This endpoint is used to delete an existing variant.
-   * Parameters  
-     * Variant ID (int)
-   
-3. ### Deleting a variant
-This endpoint is used to get the information of the specified variant.
-   * Parameters 
-     * Variant ID (int)
+## Endpoints and parameters
+1. ### Endpoints
+   * https://bearberry.org/json
+
+2. ### Parameters
+    * VariantID (int): The ID of the variant. Optional
+    * percentHarvest (int): The harvest percentage of the plant. Optional
+    * berryCount (int): Number of berries in a plant. Optional
 
 ## Resources
 
