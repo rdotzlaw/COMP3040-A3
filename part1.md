@@ -10,7 +10,7 @@
 2. ### Parameters
     * variantId (uint): The ID of the variant. Optional
     * percentHarvest (float): The harvest percentage of the plant. Optional
-    * berryCount (int): Number of berries in a plant. Optional
+    * berryCount (uint): Number of berries in a plant. Optional
 
 ## Resources
 
