@@ -76,11 +76,11 @@ Would return the following response:
 ## Sample
 ```
 https://bearberry.org/json
-https://bearberry.org/json?vaiantID=12345
-https://bearberry.org/json?harvestPercentage=0.6
+https://bearberry.org/json?variantId=12345
+https://bearberry.org/json?percentHarvest=0.6
 https://bearberry.org/json?berryCount=4
-https://bearberry.org/json?variantID=23456&harvestPercentage=0.8
-https://bearberry.org/json?variantID=34567&berryCount=2
-https://bearberry.org/json?harvestPercentage=0.25&berryCount=8
-https://bearberry.org/json?variantID=8765&harvestPercentage=0.63&berryCount=12
+https://bearberry.org/json?variantId=23456&percentHarvest=0.8
+https://bearberry.org/json?variantId=34567&berryCount=2
+https://bearberry.org/json?percentHarvest=0.25&berryCount=8
+https://bearberry.org/json?variantId=8765&percentHarvest=0.63&berryCount=12
 ```
