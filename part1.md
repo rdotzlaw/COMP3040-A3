@@ -8,7 +8,7 @@
    * https://bearberry.org/json
 
 2. ### Parameters
-    * VariantID (uint): The ID of the variant. Optional
+    * variantId (uint): The ID of the variant. Optional
     * percentHarvest (float): The harvest percentage of the plant. Optional
     * berryCount (int): Number of berries in a plant. Optional
 
@@ -20,7 +20,7 @@ The following status codes indicate the success/failure of an API request:
 * UNKNOWN_ERROR: The parameters were valid, but there was an error with the server that prevented the operation from being completed.
 
 A successful API request with the following parameters:
-* variantID: 10,
+* variantId: 10,
 * harvestPercentage: 0.7,
 * berryCount: 2048
 
