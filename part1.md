@@ -1,5 +1,5 @@
 
-# Manitoba Bearberry API Version 1.0.2
+# Manitoba Bearberry API Version 1.0.0
 
 ## Our API allows for the creation, deletion and to get information of a Manitoba bearberry variant.
 
