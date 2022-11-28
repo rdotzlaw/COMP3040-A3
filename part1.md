@@ -8,7 +8,7 @@
    * https://bearberry.org/json
 
 2. ### Parameters
-    * VariantID (int): The ID of the variant. Optional
+    * VariantID (uint): The ID of the variant. Optional
     * percentHarvest (float): The harvest percentage of the plant. Optional
     * berryCount (int): Number of berries in a plant. Optional
 
