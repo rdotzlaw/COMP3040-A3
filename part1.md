@@ -21,7 +21,7 @@ The following status codes indicate the success/failure of an API request:
 
 A successful API request with the following parameters:
 * variantId: 10,
-* harvestPercentage: 0.7,
+* percentHarvest: 0.7,
 * berryCount: 2048
 
 Would return the following response:
@@ -31,24 +31,24 @@ Would return the following response:
     "plants": 
         [
             {
-            "uniqueID": 7,
-            "variantID": 10,
+            "uniqueId": 7,
+            "variantId": 10,
             "name": "Supreme Ultimate Bearberry Tenth Edition",
             "created": "2019-05-05",
             "percentHarvest": 0.7,
             "berryCount": 2048
             },
             {
-            "uniqueID": 8,
-            "variantID": 10,
+            "uniqueId": 8,
+            "variantId": 10,
             "name": "Beary Good Bearberry",
             "created": "2007-05-05",
             "percentHarvest": 0.7,
             "berryCount": 2048
             },
             {
-            "uniqueID": 99,
-            "variantID": 10,
+            "uniqueId": 99,
+            "variantId": 10,
             "name": "Genetically Modified Bearberry 1.24",
             "created": "2059-05-05",
             "percentHarvest": 0.7,
@@ -60,8 +60,8 @@ Would return the following response:
 ```
 
 Whereas an invalid API request with the following parameters:
-* variantID: "The one that's kinda green, ya know?",
-* harvestPercentage: 1000,
+* variantId: "The one that's kinda green, ya know?",
+* percentHarvest: 1000,
 * berryCount: "Not enough"
 
 Would return the following response:
