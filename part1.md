@@ -1,7 +1,7 @@
 
 # Manitoba Bearberry API Version 1.0.0
 
-## Our API allows the user to get a list of BearyBerry plants that meet the provided parameters
+## Our API allows the user to get a list of Bearberry plants that meet the provided parameters
 
 ## Endpoints and parameters
 1. ### Endpoints
